@@ -1,0 +1,6 @@
+ibm-watson>=11.2.0
+ibm-cloud-sdk-core>=3.24.3
+python-dotenv>=1.2.1
+pandas
+matplotlib
+PyJWT>=2.10.1
